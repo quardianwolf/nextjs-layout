@@ -4,6 +4,7 @@ const Home = () => {
 
   return (
    <div>
+    <Seo title="homepage" description="desc" />
       <h1>Home</h1>
    </div>
   )
