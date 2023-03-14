@@ -6,12 +6,12 @@ function App({ Component, pageProps }) {
   return (
     <>
     <Head>
-        <meta charset="utf-8"/>
+        <meta charSet="utf-8"/>
         <meta name="language" content="tr-tr" />
-        <meta http-equiv="Content-Type" content="text/html; charset=iso-8859"></meta>
+        <meta httpEquiv="Content-Type" content="text/html; charset=iso-8859"></meta>
         <meta name="robots" content="index, follow"></meta>
         <link rel="canonical" href="/"/>
-        <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+        <meta httpEquiv="X-UA-Compatible" content="IE=edge"/>
         <meta name="viewport" content="width=device-width, initial-scale=1"/>
         <meta name="description" content="Buçağ Medya | Sosyal Medya | Web Tasarim | Google Ads"/>
         <meta name="author" content="Atilla KURT"/>
